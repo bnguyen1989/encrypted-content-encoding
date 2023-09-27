@@ -1,4 +1,0 @@
-[report]
-omit =
-    *noseplugin*
-show_missing = true
